@@ -6,13 +6,13 @@ Private Repositories: (Its private due to personal name and school group involve
 - Eternal Space - University Project with group for making game with godot (I was lead and main developer)
 
 Non-Github Project:
-- Anime File Sorting - Sort anime files based on my anilist list, such that if any score is below 50, I just delete them, other than that will moved to finish folder if I complete watched
+- Anime File Sorting - Sort anime files based on my anilist list, such that if any score is below 50, It just delete them, other than that will moved to the finish folder if I complete watched
 - Manga Checker - Checking if there is new chapter and send message to Discord so I can be up to date
 - Email Saver Timer - at previously job, wrote a script to reduce 1-2 hours tedious to merely 10 min
 - Small Script that does:
-  - Player/Music Select - If there is any player I used such as MPV is running, then allow keyboard media button repsond to that player, if there is no player, then it is assume to be a music and allow it to be used
+  - Player/Music Select - If video player running, Keyboard media key will respond to that, such as Next will run next files of current video, otherwise music focus
   - OS Switcher: Switch to Window OS right off bat after restart instead of manually via BIOS
-  - TODO - If got a inspire idea, but no time to do so, I could just call this script and write down prompt, it will append to my TODO files
+  - TODO - If I got an inspire idea, but have no time to do so, I could just call this script and write down prompt, it will just append to my TODO files
   - serveral more 
   
   
