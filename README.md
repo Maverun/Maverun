@@ -1,9 +1,11 @@
-Private Repositories: (Its private due to personal name and school group involved)
+Contact Email: maverun@protonmail.ch
+
+Private Repositories: (Its private due to my personal name and school group involved)
 - CLI-Google Drive USB - Allow to installation of files from Google Drive via USB
 - Chat Message - University Project with groups for making live chat
-- Eternal Space - University Project with group for making game with godot (I was lead and main developer)
+- Eternal Space - University Project with group for making a game with Godot engine (I was lead and main developer)
 
-Non-Github Project:
+Non-Github Projects:
 - Anime File Sorting - Sort files to my perfencences based of Anilist Score
 - Manga Checker - Checking if there is new chapter and send message to Discord so I can be up to date
 - Email Saver Timer - at previously job, wrote a script to reduce 1-2 hours tedious to merely 10 min
