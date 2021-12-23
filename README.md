@@ -14,8 +14,13 @@ Non-Github Projects:
   - OS Switcher: Load Window OS instead of default OS (Linux) without manually input via BIOS
   - TODO - Automatically adds prompts to "To Do" list
   - serveral more 
-  
-  
+
+<details>
+    <summary>:zap: Github Stats</summary>
+    <img align='left' alt="Maverun Github Stats", src="https://github-readme-stats-mave.vercel.app/api?username=maverun"
+</details>
+| <a href="https://github.com/maverun/github-readme-stats"><img align="center" src="https://github-readme-stats-mave.vercel.app/api?username=maverun&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Maverun's github stats" /></a> | <a href="https://github.com/maverun/github-readme-stats"><img align="center" src="https://github-readme-stats-mave.vercel.app/api/top-langs/?username=maverun&layout=compact&theme=buefy&hide_border=true" /></a> |
+| ------------- | ------------- |
 <!---
 Maverun/Maverun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
