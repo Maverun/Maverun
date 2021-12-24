@@ -16,7 +16,6 @@ Non-Github Projects:
   - serveral more 
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
 
 <summary>:zap: Github Stats</summary>
