@@ -19,10 +19,11 @@ Non-Github Projects:
 <summary>:zap: Github Stats</summary>
 
 | <a href="https://github.com/maverun/github-readme-stats"><img align="center" src="https://github-readme-stats-mave.vercel.app/api?username=maverun&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=tokyonight" alt="Maverun's github stats" /></a> | <a href="https://github.com/maverun/github-readme-stats"><img align="center" src="https://github-readme-stats-mave.vercel.app/api/top-langs/?username=maverun&layout=compact&hide_border=truecount_private=true&theme=tokyonight" /></a> |
-| <a href="https://github.com/maverun/github-readme-stats"><img align="center" src="https://github-readme-stats-mave.vercel.app/api/wakatime?username=maverun&hide_border=true&theme=tokyonight&" alt="Maverun's Wakatime" /></a> |<!--START_SECTION:activity-->\\
-<!--END_SECTION:activity--> |
+| <a href="https://github.com/maverun/github-readme-stats"><img align="center" src="https://github-readme-stats-mave.vercel.app/api/wakatime?username=maverun&hide_border=true&theme=tokyonight&" alt="Maverun's Wakatime" /></a> |---|
 | ------------- | ------------- |
 
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 
 
 <!---
