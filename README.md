@@ -26,7 +26,7 @@ Non-Github Projects:
 </a> 
 
 <a href="https://github.com/maverun/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-mave.vercel.app/api/wakatime?username=maverun&hide_border=true&theme=tokyonight&" alt="Maverun's Wakatime" />
+    <img align="center" src="https://github-readme-stats-mave.vercel.app/api/wakatime?username=maverun&hide_border=true&theme=tokyonight&langs_count=4" alt="Maverun's Wakatime" />
 </a>
 
 
@@ -35,6 +35,18 @@ Activity:
 <!--START_SECTION:activity-->
 <!--END_SECTION:activity-->
 
+<table>
+<tbody>
+  <tr>
+    <td><img src="https://github-readme-stats-mave.vercel.app/api?username=maverun&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=tokyonight" alt="Maverun's github stats" width="495" height="195"></td>
+    <td><img src="https://github-readme-stats-mave.vercel.app/api/top-langs/?username=maverun&layout=compact&hide_border=truecount_private=true&theme=tokyonight" alt="Image" width="350" height="165"></td>
+  </tr>
+  <tr>
+    <td>&lt;!--START_SECTION:activity--&gt;<br>&lt;!--END_SECTION:activity--&gt;<br></td>
+    <td><img src="https://github-readme-stats-mave.vercel.app/api/wakatime?username=maverun&hide_border=true&theme=tokyonight&" alt="Maverun's Wakatime" width="495" height="150"></td>
+  </tr>
+</tbody>
+</table>
 
 <!---
 Maverun/Maverun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
