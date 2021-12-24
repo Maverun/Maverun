@@ -15,6 +15,10 @@ Non-Github Projects:
   - TODO - Automatically adds prompts to "To Do" list
   - serveral more 
 
+<!--START_SECTION:activity-->
+
+<!--END_SECTION:activity-->
+
 <summary>:zap: Github Stats</summary>
 
 | <a href="https://github.com/maverun/github-readme-stats"><img align="center" src="https://github-readme-stats-mave.vercel.app/api?username=maverun&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=tokyonight" alt="Maverun's github stats" /></a> | <a href="https://github.com/maverun/github-readme-stats"><img align="center" src="https://github-readme-stats-mave.vercel.app/api/top-langs/?username=maverun&layout=compact&hide_border=truecount_private=true&theme=tokyonight" /></a> |
@@ -22,9 +26,6 @@ Non-Github Projects:
 | ------------- | ------------- |
 
 
-<!--START_SECTION:activity-->
-
-<!--END_SECTION:activity-->
 
 <!---
 Maverun/Maverun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
