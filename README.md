@@ -15,11 +15,11 @@ Non-Github Projects:
   - TODO - Automatically adds prompts to "To Do" list
   - serveral more 
 
-<details>
-    <summary>:zap: Github Stats</summary>
+<summary>:zap: Github Stats</summary>
+
 | <a href="https://github.com/maverun/github-readme-stats"><img align="center" src="https://github-readme-stats-mave.vercel.app/api?username=maverun&show_icons=true&include_all_commits=true&hide_border=true" alt="Maverun's github stats" /></a> | <a href="https://github.com/maverun/github-readme-stats"><img align="center" src="https://github-readme-stats-mave.vercel.app/api/top-langs/?username=maverun&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
-</details>
+
 <!---
 Maverun/Maverun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
