@@ -15,25 +15,8 @@ Non-Github Projects:
   - TODO - Automatically adds prompts to "To Do" list
   - serveral more 
 
-
+<details>
 <summary>:zap: Github Stats</summary>
-
-<a href="https://github.com/maverun/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-mave.vercel.app/api?username=maverun&show_icons=true&include_all_commits=true&hide_border=true&count_private=true&theme=tokyonight" alt="Maverun's github stats" />
-</a>
-<a href="https://github.com/maverun/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-mave.vercel.app/api/top-langs/?username=maverun&layout=compact&hide_border=truecount_private=true&theme=tokyonight" />
-</a> 
-
-<a href="https://github.com/maverun/github-readme-stats">
-    <img align="center" src="https://github-readme-stats-mave.vercel.app/api/wakatime?username=maverun&hide_border=true&theme=tokyonight&langs_count=4" alt="Maverun's Wakatime" />
-</a>
-
-
-Activity:
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 <table>
 <tbody>
@@ -42,12 +25,19 @@ Activity:
     <td><img src="https://github-readme-stats-mave.vercel.app/api/top-langs/?username=maverun&layout=compact&hide_border=truecount_private=true&theme=tokyonight" alt="Image" width="350" height="165"></td>
   </tr>
   <tr>
-    <td>&lt;!--START_SECTION:activity--&gt;<br>&lt;!--END_SECTION:activity--&gt;<br></td>
-    <td><img src="https://github-readme-stats-mave.vercel.app/api/wakatime?username=maverun&hide_border=true&theme=tokyonight&" alt="Maverun's Wakatime" width="495" height="150"></td>
+    <td><img src="https://github-readme-stats-mave.vercel.app/api/wakatime?username=maverun&hide_border=true&theme=tokyonight&langs_count=4" alt="Maverun's Wakatime" width="495" height="150"></td>
+    <td></td>
   </tr>
 </tbody>
 </table>
+</details>
 
+<details>
+<summary>:zap: Github Activity:</summary>
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+</details>
 <!---
 Maverun/Maverun is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
