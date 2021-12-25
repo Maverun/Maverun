@@ -36,9 +36,9 @@ Non-Github Projects:
 <summary>:zap: Github Activity:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#2](https://github.com/dundargoc/bruh.nvim/issues/2) in [dundargoc/bruh.nvim](https://github.com/dundargoc/bruh.nvim)
-2. ❗️ Opened issue [#1](https://github.com/dundargoc/bruh.nvim/issues/1) in [dundargoc/bruh.nvim](https://github.com/dundargoc/bruh.nvim)
-3. 🗣 Commented on [#1468](https://github.com/neovim/nvim-lspconfig/issues/1468) in [neovim/nvim-lspconfig](https://github.com/neovim/nvim-lspconfig)
+1. 🗣 Commented on [#16775](https://github.com/neovim/neovim/issues/16775) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 💪 Opened PR [#16775](https://github.com/neovim/neovim/pull/16775) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#2](https://github.com/dundargoc/bruh.nvim/issues/2) in [dundargoc/bruh.nvim](https://github.com/dundargoc/bruh.nvim)
 <!--END_SECTION:activity-->
 </details>
 <!---
