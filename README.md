@@ -36,9 +36,9 @@ Non-Github Projects:
 <summary>:zap: Github Activity:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#16775](https://github.com/neovim/neovim/issues/16775) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 💪 Opened PR [#16775](https://github.com/neovim/neovim/pull/16775) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#2](https://github.com/dundargoc/bruh.nvim/issues/2) in [dundargoc/bruh.nvim](https://github.com/dundargoc/bruh.nvim)
+1. 🗣 Commented on [#4](https://github.com/smolck/nvim-matrix-bot/issues/4) in [smolck/nvim-matrix-bot](https://github.com/smolck/nvim-matrix-bot)
+2. 🗣 Commented on [#16775](https://github.com/neovim/neovim/issues/16775) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 💪 Opened PR [#16775](https://github.com/neovim/neovim/pull/16775) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
 </details>
 <!---
