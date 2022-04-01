@@ -36,9 +36,9 @@ Non-Github Projects:
 <summary>:zap: Github Activity:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#14661](https://github.com/neovim/neovim/issues/14661) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#509](https://github.com/zsh-users/zsh-autosuggestions/issues/509) in [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
-3. 🗣 Commented on [#4](https://github.com/smolck/nvim-matrix-bot/issues/4) in [smolck/nvim-matrix-bot](https://github.com/smolck/nvim-matrix-bot)
+1. 🗣 Commented on [#17957](https://github.com/neovim/neovim/issues/17957) in [neovim/neovim](https://github.com/neovim/neovim)
+2. 🗣 Commented on [#14661](https://github.com/neovim/neovim/issues/14661) in [neovim/neovim](https://github.com/neovim/neovim)
+3. 🗣 Commented on [#509](https://github.com/zsh-users/zsh-autosuggestions/issues/509) in [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
 <!--END_SECTION:activity-->
 </details>
 <!---
