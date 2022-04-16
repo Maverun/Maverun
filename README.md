@@ -36,9 +36,9 @@ Non-Github Projects:
 <summary>:zap: Github Activity:</summary>
 
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17957](https://github.com/neovim/neovim/issues/17957) in [neovim/neovim](https://github.com/neovim/neovim)
-2. 🗣 Commented on [#14661](https://github.com/neovim/neovim/issues/14661) in [neovim/neovim](https://github.com/neovim/neovim)
-3. 🗣 Commented on [#509](https://github.com/zsh-users/zsh-autosuggestions/issues/509) in [zsh-users/zsh-autosuggestions](https://github.com/zsh-users/zsh-autosuggestions)
+1. ❗️ Opened issue [#13](https://github.com/PlankCipher/kabmat/issues/13) in [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat)
+2. ❗️ Opened issue [#12](https://github.com/PlankCipher/kabmat/issues/12) in [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat)
+3. 🗣 Commented on [#17957](https://github.com/neovim/neovim/issues/17957) in [neovim/neovim](https://github.com/neovim/neovim)
 <!--END_SECTION:activity-->
 </details>
 <!---
