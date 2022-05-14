@@ -37,8 +37,8 @@ Non-Github Projects:
 
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#1360](https://github.com/glacambre/firenvim/issues/1360) in [glacambre/firenvim](https://github.com/glacambre/firenvim)
-2. ❗️ Opened issue [#1360](https://github.com/glacambre/firenvim/issues/1360) in [glacambre/firenvim](https://github.com/glacambre/firenvim)
-3. ❗️ Opened issue [#13](https://github.com/PlankCipher/kabmat/issues/13) in [PlankCipher/kabmat](https://github.com/PlankCipher/kabmat)
+2. 🗣 Commented on [#1360](https://github.com/glacambre/firenvim/issues/1360) in [glacambre/firenvim](https://github.com/glacambre/firenvim)
+3. 🗣 Commented on [#1360](https://github.com/glacambre/firenvim/issues/1360) in [glacambre/firenvim](https://github.com/glacambre/firenvim)
 <!--END_SECTION:activity-->
 </details>
 <!---
