@@ -1,5 +1,3 @@
-Contact Email: maverun@protonmail.ch
-
 Private Repositories: (Its private due to my personal name and school group involved)
 - CLI-Google Drive USB - Allow to installation of files from Google Drive via USB
 - Chat Message - University Project with groups for making live chat
